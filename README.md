@@ -6,4 +6,5 @@ Questionnaire :
 2. Rotate the array the number of times the value of K. Used the Modulus Approach.
 3. Find the missing number between the array.
 4. Rotate the 2d matrix by 90 degree.
-5. Find the peak element of the mountain. 
+5. Find the peak element of the mountain.
+6. Remove the duplicate elements from the sorted array.
