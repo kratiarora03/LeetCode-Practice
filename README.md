@@ -9,3 +9,5 @@ Questionnaire :
 5. Find the peak element of the mountain.
 6. Remove the duplicate elements from the sorted array.
 7. To check whether the array is monotonic array or not.
+8. To find the pivot element.
+9. Find the first repeating element. 
