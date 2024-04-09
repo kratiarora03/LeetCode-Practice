@@ -11,4 +11,6 @@ Questionnaire :
 7. To check whether the array is monotonic array or not.
 8. To find the pivot element.
 9. Search for an element in a 2D matrix using binary search.
-10. To check the duplicate characters in the string.
+10. Remove all adjacent duplicates in string.
+11. Remove all occurrence from a string
+12. To check the string is a valid palindrome by removing atmost one element.
