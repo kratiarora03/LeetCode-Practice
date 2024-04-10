@@ -14,3 +14,4 @@ Questionnaire :
 11. Remove all occurrence from a string
 12. To check the string is a valid palindrome by removing atmost one element.
 13. To check whether the substrings are palindromic or not.
+14. Decode the message through the substitution table generated .
