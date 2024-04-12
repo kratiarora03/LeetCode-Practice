@@ -1,6 +1,5 @@
 LEET CODE PROBLEMS 
 : This repository consists of all the leet code problems with different data structures . 
-
 Questionnaire : 
 1. Sort the colors red , white and blue which are added in the array using numbers 1,2and 3 respectively.
 2. Rotate the array the number of times the value of K. Used the Modulus Approach.
@@ -14,3 +13,5 @@ Questionnaire :
 10. Remove all adjacent duplicates in string.
 11. Remove all occurrence from a string
 12. To check the string is a valid palindrome by removing atmost one element.
+13. To check whether the substrings are palindromic or not.
+14. Decode the message through the substitution table generated .
