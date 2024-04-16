@@ -15,3 +15,4 @@ Questionnaire :
 12. To check the string is a valid palindrome by removing atmost one element.
 13. To check whether the substrings are palindromic or not.
 14. Decode the message through the substitution table generated .
+15. Minimum amount of time to collect garbage.
